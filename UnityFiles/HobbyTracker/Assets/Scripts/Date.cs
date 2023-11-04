@@ -8,7 +8,7 @@ using TMPro;
 public class Date : MonoBehaviour
 {
 
-    public TMPro.Text uiText = null;
+    //public TMPro.Text uiText = null;
 
     // Start is called before the first frame update
     void Start()
